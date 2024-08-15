@@ -1,4 +1,4 @@
-Recently a full featured maritime alarm monitoring system was referred to me.
+Recently a full featured maritime alarm monitoring system implementing (hardware and software all from scratch) was referred to me.
 As an onboard electrical technician, I am aware of how complex it supposed to be.
 In one of my attends I had encountered a very old and bad (in term of overall engineering and design) one, from a chinese company called Rongde.
 Its peripherals for DAQ were in ASCII, Watch cabin units were in ASCII, Voyage data recorde were in ASCII. No error detections and no error rectifications.
